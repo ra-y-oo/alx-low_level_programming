@@ -6,7 +6,6 @@
  * Description: prints the alphabet in lowercase except for q and e\n
  * Return: Always 0 (success)
  */
-
 int main(void)
 {
     int ch;
