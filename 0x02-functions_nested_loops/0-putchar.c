@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <smain.h>
 /**
  * main - Entry point
  * Description: prints '_putchar \n'
